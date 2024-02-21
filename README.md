@@ -1,4 +1,5 @@
 # ToolboxUnlock
+
 - Toolbox For Minecraft:PE Premium Unlock
 
 ## 如何使用
@@ -13,6 +14,10 @@
 
 - 启动Toolbox后点击任意一个上锁功能
 - 每次显示对话框都会添加15分钟试用时间
+
+#### 移除MCPE许可证校验
+
+- 字面意思,GooglePlay购买的许可证
 
 ## LSP Repo
 
